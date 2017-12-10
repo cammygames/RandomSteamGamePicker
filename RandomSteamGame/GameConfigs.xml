@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameConfigs>
+  <Game>
+    <Name>Arma 3</Name>
+    <Path>steamapps/common/Arma 3</Path>
+    <Exe>arma3launcher.exe</Exe>
+  </Game>
+  <Game>
+    <Name>Arma 3 Tools</Name>
+    <Path>steamapps/common/Arma 3 Tools</Path>
+    <Exe>Arma3Tools.exe</Exe>
+  </Game>
+  <Game>
+    <Name>EMERGENCY 20</Name>
+    <Path>steamapps/common/Arma 3 Tools</Path>
+    <Exe>bin/em5_launcher.exe</Exe>
+  </Game>
+  <Game>
+    <Name>Farming Simulator 17</Name>
+    <Path>steamapps/common/Farming Simulator 17</Path>
+    <Exe>FarmingSimulator2017.exe</Exe>
+  </Game>
+  <Game>
+    <Name>Grand Theft Auto V</Name>
+    <Path>steamapps/common/Grand Theft Auto V</Path>
+    <Exe>GTAVLauncher.exe</Exe>
+  </Game>
+  <Game>
+    <Name>Kerbal Space Program</Name>
+    <Path>steamapps/common/Kerbal Space Program</Path>
+    <Exe>Launcher.exe</Exe>
+  </Game>
+  <Game>
+    <Name>Planet Coaster</Name>
+    <Path>steamapps/common/Planet Coaster</Path>
+    <Exe>PlanetCoaster.exe</Exe>
+  </Game>
+  <Game>
+    <Name>rocketleague</Name>
+    <Path>steamapps/common/rocketleague</Path>
+    <Exe>Binaries/Win32/RocketLeague.exe</Exe>
+  </Game>
+  <Game>
+    <Name>Scrap Mechanic</Name>
+    <Path>steamapps/common/Scrap Mechanic</Path>
+    <Exe>Release/ScrapMechanic.exe</Exe>
+  </Game>
+  <Game>
+    <Name>Subnautica</Name>
+    <Path>steamapps/common/Subnautica</Path>
+    <Exe>Subnautica.exe</Exe>
+  </Game>
+  <Game>
+    <Name>X-Plane 11</Name>
+    <Path>steamapps/common/X-Plane 11</Path>
+    <Exe>X-Plane.exe</Exe>
+  </Game>
+  <Game>
+    <Name>YNAB 4</Name>
+    <Path>steamapps/common/YNAB 4</Path>
+    <Exe>YNAB 4.exe</Exe>
+  </Game>
+</GameConfigs>
